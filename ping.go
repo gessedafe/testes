@@ -19,6 +19,7 @@ const (
 	icmpv4EchoReply   = 0
 	icmpv6EchoRequest = 128
 	icmpv6EchoReply   = 129
+	alteradoPelo 	  = 'Gessé'
 )
 
 type icmpMessage struct {
