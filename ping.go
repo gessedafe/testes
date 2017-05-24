@@ -15,6 +15,7 @@ import (
 )
 
 const (
+	testede		  = conflito
 	icmpv4EchoRequest = 8
 	icmpv4EchoReply   = 0
 	icmpv6EchoRequest = 128
