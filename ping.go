@@ -20,6 +20,7 @@ const (
 	icmpv4EchoReply   = 0
 	icmpv6EchoRequest = 128
 	icmpv6EchoReply   = 129
+	aqui vai dar 	= conflito!
 )
 
 type icmpMessage struct {
